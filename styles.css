@@ -734,8 +734,8 @@ a {
 
   height: 28px;
 
-  background: #111;
-
+  /* background: #111; */
+  background: transparent;
   border-radius:
     20px;
 
