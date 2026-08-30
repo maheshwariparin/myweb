@@ -201,17 +201,17 @@ a {
   background:
     linear-gradient(
       145deg,
-      #6B3CFF,
-      #4A1FD9
+      /* #6B3CFF,
+      #4A1FD9 */
     );
 
   display: grid;
 
   place-items: center;
 
-  box-shadow:
+  /* box-shadow:
     0 4px 16px
-    rgba(91, 44, 255, 0.4);
+    rgba(91, 44, 255, 0.4); */
 
   flex-shrink: 0;
 
